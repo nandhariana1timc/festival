@@ -1,0 +1,114 @@
+
+# Rock Legends Festival
+
+**Dupla:** Nome 1 e Nome 2
+
+**Site publicado:** Link da Vercel
+
+---
+
+## Briefing
+
+### Público
+
+O festival é destinado principalmente para jovens e adultos,
+aproximadamente entre 16 e 40 anos, que gostam de rock clássico,
+rock alternativo e heavy metal.
+
+O público procura uma experiência com grandes shows, boa organização
+e um ambiente voltado para música e entretenimento.
+
+### Clima
+
+- Intenso
+- Noturno
+- Energético
+
+### Paleta de cores
+| Cor | Hexadecimal | Uso |
+|---|---|---|
+| Preto | #080808 | Fundo principal |
+| Cinza | #151515 | Cards e seções |
+| Vermelho | #E32626 | Destaques e botões |
+| Branco | #F5F5F5 | Textos |
+| Cinza claro | #222222 | Bordas e elementos |
+
+### Fontes
+
+**Bebas Neue:** utilizada nos títulos porque possui uma aparência
+forte e combina com a identidade visual do rock.
+
+**Montserrat:** utilizada nos textos porque possui boa leitura
+e mantém o site moderno.
+
+### Sites utilizados como inspiração
+
+1. https://www.lollapalooza.com.br/
+   
+   Gostamos da organização das informações e da apresentação dos
+   artistas.
+
+2. https://www.rockinrio.com/
+   
+   Gostamos da identidade visual forte e da organização das páginas.
+
+3. https://www.downloadfestival.co.uk/
+   
+   Gostamos da forma como o festival apresenta os artistas e a
+   programação.
+
+---
+
+## Antes e depois
+### Antes
+
+![Antes](img/antes.png)
+
+### Depois
+
+![Depois](img/depois.png)
+
+---
+
+## 4 prompts que mais fizeram diferença
+
+### Prompt 1
+
+Crie uma página inicial de um festival de rock chamada
+Rock Legends Festival, com visual profissional, moderno e escuro,
+usando preto, vermelho e branco.
+
+### Prompt 2
+
+Melhore a página para que ela tenha aparência de um festival
+profissional, mas mantenha o código simples para estudantes do
+primeiro ano do ensino médio.
+
+### Prompt 3
+
+Crie um menu igual em todas as páginas, com links para Início,
+Line-up, Ingressos, Informações e FAQ.
+
+### Prompt 4
+
+Deixe o site responsivo para computadores e celulares usando
+apenas HTML e CSS, sem frameworks.
+
+---
+
+## Tecnologias utilizadas
+
+- HTML5
+- CSS3
+- Google Fonts
+- VS Code
+
+## Páginas
+
+- index.html
+- lineup.html
+- ingressos.html
+- informacoes.html
+- faq.html
+
+## Autores
